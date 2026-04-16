@@ -15,10 +15,10 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # ==========================================
 # গেম এবং ভিজিট কনফিগারেশন
 # ==========================================
-CLIENT_VERSION = "1.120.1"
-CLIENT_VERSION_CODE = "2019119621"
+CLIENT_VERSION = "1.123.1"
+CLIENT_VERSION_CODE = "2019120270"
 UNITY_VERSION = "2018.4.11f1"
-RELEASE_VERSION = "OB52"
+RELEASE_VERSION = "OB53"
 MSDK_VERSION = "5.5.2P3"
 USER_AGENT_MODEL = "ASUS_Z01QD"
 ANDROID_OS_VERSION = "Android 10"
